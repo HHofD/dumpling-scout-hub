@@ -1,0 +1,5 @@
+env/
+scout_hub.db
+.DS_Store
+__pycache__/
+.streamlit/secrets.toml
